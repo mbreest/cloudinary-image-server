@@ -1,4 +1,4 @@
-For more details on the Cloudinary image server for Spreadshirt product images PoC have a look at the [presentation](rendering_spreadshirt_product_images_using_cloudinary.pptx).
+For more details on the Cloudinary image server for Spreadshirt product images PoC have a look at the [presentation](rendering_spreadshirt_product_images_using_cloudinary.pptx?raw=true).
 
 Copy cloudinary-template.yaml to cloudinary.yaml and add your cloudinary API key.
 
