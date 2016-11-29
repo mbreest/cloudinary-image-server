@@ -1,3 +1,5 @@
+Copy cloudinary-template.yaml to cloudinary.yaml and add your cloudinary API key.
+
 Start cloudinary image server
 
 ```bash
