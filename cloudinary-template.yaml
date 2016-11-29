@@ -1,0 +1,4 @@
+cloudinary:
+  cloudName: "xxx"
+  apiKey: "xxx"
+  secret: "xxx"
